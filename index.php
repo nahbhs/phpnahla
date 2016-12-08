@@ -1,4 +1,5 @@
-<?php
-
-echo "Hello world!";
-?>
+<html>
+  <body>
+    Hello !
+  </body>
+</html>
